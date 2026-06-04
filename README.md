@@ -2,7 +2,7 @@
 
 Real-time facial emotion detection from a live webcam feed. A CNN is trained on the
 [FER-2013](https://www.kaggle.com/datasets/deadskull7/fer2013) dataset and detects
-**7 emotions** — angry, disgust, fear, happy, sad, surprise, neutral — in real time
+**7 emotions**; angry, disgust, fear, happy, sad, surprise, neutral ; in real time
 using OpenCV face detection.
 
 ---
